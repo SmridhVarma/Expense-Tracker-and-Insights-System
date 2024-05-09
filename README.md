@@ -13,6 +13,10 @@ Expense Tracker is a web application I built using Streamlit and MongoDB, allowi
 - **View insights:** 📈 Visualize overall expenses, expenses by day, by category, and by type.
 - **Budget report:** 💰 Input salary to get a report on remaining budget.
 - **Containerized deployment:** 🐳 Docker used for containerization, deployed on Azure Web App hosting service.
+- **Live at:**
+  ```bash
+  https://wheremymoney.azurewebsites.net/
+  ```
 
 ## ⚙️ Installation and Usage
 
