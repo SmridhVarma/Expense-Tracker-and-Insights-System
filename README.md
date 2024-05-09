@@ -21,7 +21,7 @@ To run the Expense Tracker locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/SmridhVarma/Expense-Tracker-and-Insights-System.git
    ```
 2. **Install Dependencies:**
 
